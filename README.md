@@ -14,7 +14,7 @@ Model checkpointing during training
 Tech Stack:                   
 Python                      
 TensorFlow                     
-Keras
-NumPy
+Keras                   
+NumPy                           
 Pickle
 Google Colab
