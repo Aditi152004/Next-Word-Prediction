@@ -16,5 +16,5 @@ Python
 TensorFlow                     
 Keras                   
 NumPy                           
-Pickle
+Pickle                              
 Google Colab
