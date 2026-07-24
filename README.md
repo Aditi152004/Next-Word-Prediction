@@ -2,7 +2,8 @@ This project is a Deep Learning-based Next Word Prediction System that predicts 
 
 The project demonstrates the complete NLP pipeline—from text preprocessing and tokenization to sequence generation, model training, and real-time next-word prediction.
 
-Features
+Features:
+
 Text preprocessing and cleaning
 Tokenization using TensorFlow/Keras Tokenizer
 Automatic vocabulary generation
@@ -12,7 +13,8 @@ Real-time next word prediction
 Model checkpointing during training
 Saved tokenizer for inference
 
-Tech Stack
+Tech Stack:
+
 Python
 TensorFlow
 Keras
