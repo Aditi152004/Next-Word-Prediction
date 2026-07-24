@@ -11,9 +11,8 @@ Multi-layer LSTM architecture for context learning
 Real-time next word prediction                    
 Model checkpointing during training                 
 
-Tech Stack:
-
-Python
+Tech Stack:                   
+Python                      
 TensorFlow
 Keras
 NumPy
