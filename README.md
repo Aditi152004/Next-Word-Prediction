@@ -9,8 +9,7 @@ Automatic vocabulary generation
 Sequence generation using sliding window technique                      
 Multi-layer LSTM architecture for context learning                         
 Real-time next word prediction                    
-Model checkpointing during training
-Saved tokenizer for inference
+Model checkpointing during training                 
 
 Tech Stack:
 
