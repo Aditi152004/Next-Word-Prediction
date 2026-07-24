@@ -13,7 +13,7 @@ Model checkpointing during training
 
 Tech Stack:                   
 Python                      
-TensorFlow
+TensorFlow                     
 Keras
 NumPy
 Pickle
